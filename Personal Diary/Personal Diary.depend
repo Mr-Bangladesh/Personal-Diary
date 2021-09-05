@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1525073840 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\add_event.cpp
+	<bits/stdc++.h>
+	"Maintain.h"
+	"Add_event.h"
+
+1525073442 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\add_memory.cpp
+	<bits/stdc++.h>
+	<fstream>
+	"Maintain.h"
+	"Add_memory.h"
+
+1523328359 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\main.cpp
+	<iostream>
+	"Menu.h"
+	"Maintain.h"
+
+1523245427 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\menu.h
+
+1525284283 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\maintain.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"Menu.h"
+	"Add_memory.h"
+	"View_memory.h"
+	"Add_event.h"
+	"Passed_event.h"
+	"Today_event.h"
+	"upcoming_event.h"
+	"Delete_Event.h"
+	"Delete_Memory.h"
+
+1524848489 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\passed_event.cpp
+	<bits/stdc++.h>
+	"Passed_event.h"
+	"Maintain.h"
+
+1524849297 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\today_event.cpp
+	<bits/stdc++.h>
+	"Passed_event.h"
+	"Today_event.h"
+	"Maintain.h"
+
+1524848758 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\upcoming_event.cpp
+	<bits/stdc++.h>
+	"Passed_event.h"
+	"upcoming_event.h"
+	"Maintain.h"
+
+1524848332 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\view_memory.cpp
+	<bits/stdc++.h>
+	"View_memory.h"
+	"Maintain.h"
+
+1523246357 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\maintain.h
+
+1523246781 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\add_memory.h
+
+1525228365 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\menu.cpp
+	<bits/stdc++.h>
+
+1523258156 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\view_memory.h
+
+1523289341 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\add_event.h
+
+1523293870 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\passed_event.h
+
+1523296914 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\today_event.h
+
+1524025950 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\upcoming_event.h
+
+1525285450 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\delete_event.cpp
+	<bits/stdc++.h>
+	"Delete_Event.h"
+	"Maintain.h"
+
+1525228697 source:c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\delete_memory.cpp
+	<bits/stdc++.h>
+	"Delete_Memory.h"
+	"Maintain.h"
+
+1525227395 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\delete_memory.h
+
+1525283986 c:\users\lenovo\desktop\2nd semester\c++\project\personal diary\delete_event.h
+
